@@ -20,7 +20,7 @@ var questions = [
     c: 1,
   },
   {
-    question: "What is the difference between innerHTML and innerText?",
+    q: "What is the difference between innerHTML and innerText?",
     a: [
         "innerHTML reads/writes HTML tags, innerText shows only visible text",
         "innerText can parse scripts but innerHTML cannot",
